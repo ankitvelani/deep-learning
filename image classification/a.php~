@@ -1,6 +1,0 @@
-<?php
-exec("python ./classify_image.py",$output, $return_var);
-var_dump($output);
-// exec('whoami', $output, $return_var);
-
-
