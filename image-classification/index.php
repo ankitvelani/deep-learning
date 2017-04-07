@@ -66,7 +66,7 @@ $imageName="";
         <br>
            <form action="" method="POST" enctype="multipart/form-data">
          <input type="file" name="image" />
-         <input type="submit" name="submit"/>
+         <input type="submit" name="submit" value="Click to Analyze"/>
       </form>
       <br>
        
@@ -116,7 +116,7 @@ $imageName="";
 
     <footer class="footer">
       <div class="container">
-        <span class="text-muted"><a src="">Github</a></span>
+        <span class="text-muted"><a href="https://github.com/ankitvelani/deep-learning/tree/master/image-classification" target='_new'>Github</a></span>
       </div>
     </footer>
 
